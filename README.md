@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Devine Logo](public/screenshot-for-readme.png)
-
 **A modern, AI-powered online code editor with multi-language support and intelligent assistance**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-forgeide.vercel.app-blue?style=for-the-badge)](https://forgeide.vercel.app)
